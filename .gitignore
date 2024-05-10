@@ -94,3 +94,6 @@ models/
 
 # .pt files
 *.pt
+
+# Scripts folder
+Scripts/
