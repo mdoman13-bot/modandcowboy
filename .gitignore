@@ -78,3 +78,19 @@ __pypackages__/
 env/
 venv/
 ENV/
+
+# Media folder
+media/
+
+# Media files
+*.jpg
+*.jpeg
+*.mp4
+*.mov
+*.png
+*.gif
+# Models folder
+models/
+
+# .pt files
+*.pt
