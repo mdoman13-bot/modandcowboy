@@ -3,7 +3,7 @@ import pafy
 from ultralytics import YOLO
 
 # Initialize a YOLO-World model
-model = YOLO('yolov8s-world.pt')  # or choose yolov8m/l-world.pt
+model = YOLO('models/yolov8s-world.pt')  # or choose yolov8m/l-world.pt
 
 # model.to('mps')
 # Define custom classes
